@@ -68,6 +68,9 @@ import com.example.proyectofinal.Navigation.ObjVistas
 import com.example.proyectofinal.R
 import com.example.proyectofinal.ViewModel.BusquedaViewModel
 
+
+
+//COMENTARIO DE PRUEBA
 @Composable
 fun BuscarView(
     navController: NavController,
