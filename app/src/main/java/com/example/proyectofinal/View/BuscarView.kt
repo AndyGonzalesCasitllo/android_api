@@ -70,7 +70,7 @@ import com.example.proyectofinal.ViewModel.BusquedaViewModel
 
 
 
-//COMENTARIO DE PRUEBA
+//COMENTARIO DE PRUEBA hola holaaaa
 @Composable
 fun BuscarView(
     navController: NavController,
